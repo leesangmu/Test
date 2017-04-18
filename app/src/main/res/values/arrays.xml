@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string-array name="welding">
+    <item>용접기1</item>
+    <item>용접기2</item>
+    <item>용접기3</item>
+    <item>용접기4</item>
+    <item>용접기5</item>
+    <item>용접기6</item>
+</string-array>
+</resources>
